@@ -12,11 +12,11 @@ We conduct research on **multiscale gas-flow modeling and computation**, bridgin
 - Multiscale gas dynamics across continuum–rarefied regimes  
 - Kinetic theory, stochastic particle methods, and hybrid solvers  
 - Adaptive meshing/time-stepping and large-scale parallel computing  
-- Data-driven modeling: surrogate models, model reduction, RL-based design  
+- Data-driven modeling: Symbolic regression, governing equation discovery, and gene expression programming
 - Open-source software for aerospace flow simulation
 
 ## Selected Repositories (examples)
 - [SPARTACUS](https://github.com/BUAA-MARS-group/SPARTACUS) — Cross-regime stochastic-particle solver.
-- [SITE](https://github.com/BUAA-MARS-group/SITE) — Cross-regime stochastic-particle solver.
+- [SITE](https://github.com/BUAA-MARS-group/SITE) — General data-driven framework for identifying tensor equations.
 - [CrossAero](https://github.com/BUAA-MARS-group/CrossAero-DRL) — DRL framework for cross-regime aerodynamic shape optimization.
 
