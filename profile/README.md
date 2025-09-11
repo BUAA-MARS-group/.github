@@ -10,9 +10,8 @@ We conduct research on **multiscale gas-flow modeling and computation**, bridgin
 ## Focus Areas
 - Multiscale gas dynamics across continuum–rarefied regimes  
 - Kinetic theory, stochastic particle methods, and hybrid solvers  
-- Adaptive meshing/time-stepping and large-scale parallel computing  
+- Open-source flow solver: Adaptive meshing/time-stepping and large-scale parallel computing  
 - Data-driven modeling: Symbolic regression, governing equation discovery, and gene expression programming
-- Open-source software for aerospace flow simulation
 
 ## Selected Repositories (examples)
 - [SPARTACUS](https://github.com/BUAA-MARS-group/SPARTACUS) — Stochastic particle solver for the simulation of multiscale nonequilibrium gas flows based on [SPARTA](https://github.com/sparta/sparta).
