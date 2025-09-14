@@ -16,7 +16,7 @@ We conduct research on multiscale gas-flow modeling and computation that bridges
 ## Selected Repositories (examples)
 - [SPARTACUS](https://github.com/BUAA-MARS-group/SPARTACUS) — Stochastic particle solver for multiscale nonequilibrium gas flows based on [SPARTA](https://github.com/sparta/sparta).
 - [SITE](https://github.com/BUAA-MARS-group/SITE) — General data-driven framework for identifying tensor equations.
-- [PINN-DVM](https://github.com/BUAA-MARS-group/PINN_DVM) — Combines Physics-Informed Neural Networks and the Discrete Velocity Method for linearized Boltzmann-BGK equation
+- [PINN-DVM](https://github.com/BUAA-MARS-group/PINN_DVM) — Combines Physics-Informed Neural Networks (PINNs) and the Discrete Velocity Method (DVM) for linearized Boltzmann-BGK equation
 
 <!-- [CrossAero](https://github.com/BUAA-MARS-group/CrossAero-DRL) — DRL framework for cross-regime aerodynamic shape optimization.-->
 
