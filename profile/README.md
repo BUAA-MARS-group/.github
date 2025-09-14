@@ -2,9 +2,9 @@
 
 **Beihang University**
 
-We conduct research on **multiscale gas-flow modeling and computation**, bridging continuum and rarefied regimes. Our work spans kinetic/particle and hybrid solvers (e.g., DSMC, Fokker–Planck–based methods, USP/MSP frameworks), hypersonic/high-enthalpy flows, **high-performance computing**, and **data-driven approaches** for model discovery and aerodynamic design (surrogates, ML, and reinforcement learning).
+We conduct research on multiscale gas-flow modeling and computation that bridges the continuum and rarefied regimes. Our work spans kinetic/particle methods and hybrid solvers; high-enthalpy flows and associated high-temperature gas effects; high-performance computing; and data-driven approaches for model discovery, equation solving, and aerodynamic design—including symbolic regression, PINNs, surrogate modeling, and reinforcement-learning–based optimization.
 
-- **Leader:** Prof. **Jun Zhang**
+- **Leader:** Prof. [**Jun Zhang**](https://orcid.org/0000-0002-3731-4594)
 - **Google Scholar —[Jun Zhang (张俊)](https://scholar.google.com/citations?user=6vjJtPsAAAAJ&hl=en&oi=ao)** 
 
 ## Focus Areas
