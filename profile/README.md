@@ -13,11 +13,15 @@ We conduct research on multiscale gas-flow modeling and computation that bridges
 - Open-source flow solver: Adaptive meshing/time-stepping and large-scale parallel computing  
 - Data-driven modeling: Symbolic regression, governing equation discovery, and gene expression programming
 
-## Selected Repositories (examples)
+## Repositories
+### Stochastic Particle Solvers
 - [SPARTACUS](https://github.com/BUAA-MARS-group/SPARTACUS) — Stochastic particle solver for multiscale nonequilibrium gas flows based on [SPARTA](https://github.com/sparta/sparta).
-- [MSPD](https://github.com/BUAA-MARS-group/MSPD) — the implementation of the Multiscale Stochastic Particle (MSP) method for simulating diatomic gas flows
+- [MSPD](https://github.com/BUAA-MARS-group/MSPD) — the implementation of the Multiscale Stochastic Particle (MSP) method for simulating diatomic gas flows.
+
+### Data-Driven / Machine Learning Methods
+- [DHC-GEP](https://github.com/BUAA-MARS-group/DHC-GEP) — Dimensional homogeneity constrained gene expression programming for discovering governing equations.
 - [SITE](https://github.com/BUAA-MARS-group/SITE) — General data-driven framework for identifying tensor equations.
-- [PINN-DVM](https://github.com/BUAA-MARS-group/PINN-DVM) — Combines Physics-Informed Neural Networks (PINNs) and the Discrete Velocity Method (DVM) for linearized Boltzmann-BGK equation
+- [PINN-DVM](https://github.com/BUAA-MARS-group/PINN-DVM) — Combination of Physics-Informed Neural Networks (PINNs) and the Discrete Velocity Method (DVM) for the linearized Boltzmann–BGK equation.
 
 <!-- [CrossAero](https://github.com/BUAA-MARS-group/CrossAero-DRL) — DRL framework for cross-regime aerodynamic shape optimization.-->
 
