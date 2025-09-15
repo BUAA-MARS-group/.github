@@ -8,7 +8,7 @@ We conduct research on multiscale gas-flow modeling and computation that bridges
 - **Google Scholar —[Jun Zhang (张俊)](https://scholar.google.com/citations?user=6vjJtPsAAAAJ&hl=en&oi=ao)** 
 
 ## Focus Areas
-- Multiscale gas dynamics across continuum–rarefied regimes  
+- Modeling and simulation of multiscale nonequilibrium gas flows 
 - Kinetic theory, stochastic particle methods, and hybrid solvers  
 - Open-source flow solver: Adaptive meshing/time-stepping and large-scale parallel computing  
 - Data-driven modeling: Symbolic regression, governing equation discovery, and gene expression programming
